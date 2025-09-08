@@ -1,8 +1,3 @@
-Perfect 👍 — let’s prepare a **README.md** file for your project. This will make it clear how to set up, run, and use your **Stock Market Prediction Streamlit App**.
-
-Here’s a good starting point:
-
----
 
 ```markdown
 # 📈 Stock Market Prediction App
@@ -36,7 +31,7 @@ This app allows users to input a stock ticker (e.g., `GOOG`, `AAPL`) and visuali
 
 ## 📂 Project Structure
 
-```
+
 
 predict-stock-price/
 │
@@ -48,7 +43,6 @@ predict-stock-price/
 ├── requirements.txt          # Dependencies list
 └── README.md                 # Project documentation
 
-````
 
 ---
 
@@ -122,10 +116,3 @@ streamlit run app.py
 
 * MRUTYUNJAYA
 * [LinkedIn](https://linkedin.com/in/mrutyunjaya-bagha-63254b30b) | [GitHub](https://github.com/Mrutyu-mark-v)
-
-```
-
----
-
-👉 Do you want me to also prepare a **`requirements.txt`** file for you so everything works out of the box?
-```
