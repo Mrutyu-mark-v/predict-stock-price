@@ -1,5 +1,5 @@
 
-```markdown
+
 # 📈 Stock Market Prediction App
 
 A **Stock Price Prediction Web Application** built with **Streamlit**, **Keras (TensorFlow)**, and **Yahoo Finance API**.  
@@ -32,7 +32,7 @@ This app allows users to input a stock ticker (e.g., `GOOG`, `AAPL`) and visuali
 ## 📂 Project Structure
 
 
-
+```
 predict-stock-price/
 │
 ├── frontend/
@@ -42,7 +42,7 @@ predict-stock-price/
 │
 ├── requirements.txt          # Dependencies list
 └── README.md                 # Project documentation
-
+```
 
 ---
 
